@@ -4,6 +4,11 @@
   "paid": false,
   "courses": [
     {
+      "external_link": "https://learn.openshift.com/introduction/infinispan-getting-started/",
+      "course_id": "infinispan-getting-started",
+      "title": "Getting Started with Infinispan"
+    },
+    {
       "external_link": "https://learn.openshift.com/introduction/getting-started/",
       "course_id": "getting-started",
       "title": "Getting Started with OpenShift for Developers"
